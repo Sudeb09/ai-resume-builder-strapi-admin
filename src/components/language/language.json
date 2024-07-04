@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_language_languages",
+  "info": {
+    "displayName": "Language",
+    "icon": "emotionHappy"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
