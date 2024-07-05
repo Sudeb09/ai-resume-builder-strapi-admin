@@ -79,6 +79,15 @@
     },
     "themeColor": {
       "type": "string"
+    },
+    "leetcode": {
+      "type": "string"
+    },
+    "hackerrank": {
+      "type": "string"
+    },
+    "facebook": {
+      "type": "string"
     }
   }
 }

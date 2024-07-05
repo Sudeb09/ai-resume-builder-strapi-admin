@@ -393,6 +393,9 @@ export interface ApiUserResumeUserResume extends Schema.CollectionType {
     languages: Attribute.Component<'language.language', true>;
     interest: Attribute.Component<'interest.interest', true>;
     themeColor: Attribute.String;
+    leetcode: Attribute.String;
+    hackerrank: Attribute.String;
+    facebook: Attribute.String;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
